@@ -9,13 +9,22 @@ Construir um pipeline completo de Machine Learning que permita:
 ## Dataset
 O projeto utiliza o dataset Predictive Maintenace, contendo informações de sensores industriais.
 -> A variável alvo é o tipo de falha provocado (Failure Type).
-## Para executar
-Clonar o repositório: git clone: https://github.com/Andre6925/KNN-.git
-Acessar a página do projeto: cd ../KNN-
-Instalar as dependências: pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Para executar
 
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Andre6925/KNN.git
+```
+2. Acesse a página do projeto:
+```
+cd KNN
+```
+3. Instale as dependências:
+```
+pip install numpy pandas matplotlib seaborn scikit-learn
+```
+4. Execute o script:
+```
+python KNN.py
+```
