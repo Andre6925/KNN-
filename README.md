@@ -13,3 +13,9 @@ O projeto utiliza o dataset Predictive Maintenace, contendo informações de sen
 Clonar o repositório: git clone: https://github.com/Andre6925/KNN-.git
 Acessar a página do projeto: cd ../KNN-
 Instalar as dependências: pip install numpy pandas matplotlib seaborn scikit-learn
+
+## Para executar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Andre6925/KNN.git
