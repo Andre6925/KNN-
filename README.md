@@ -6,3 +6,6 @@ Construir um pipeline completo de Machine Learning que permita:
 - Comparar diferentes métricas de distância
 - Otimizar o hiperparâmetro K
 - Avaliar o desempenho do modelo
+## Dataset
+O projeto utiliza o dataset Predictive Maintenace, contendo informações de sensores industriais.
+-> A variável alvo é o tipo de falha provocado (Failure Type).
